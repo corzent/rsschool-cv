@@ -33,3 +33,9 @@ const greet = () => 'hello wordl!';
 
 -   Graduated from the **Polytechnic College of the IUKR**
 -   Now I am studying in the first year of the **Kyrgyz State Technical University named after I. Razzakov**
+
+## Language
+
+-   Kyrgyz - Native
+-   Russian - Fluent
+-   English - A2
