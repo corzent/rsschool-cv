@@ -6,6 +6,7 @@
 -   **Phone:** +996 755 442 228
 -   **Email:** vonehsi@gmail.com
 -   **GitHub:** https://github.com/corzent
+-   **Discord:** https://discordapp.com/users/827181660063399937/
 
 ## About Me
 
